@@ -54,7 +54,7 @@ export const styles = StyleSheet.create({
   },
   selectedItemContainer: {
     backgroundColor: "#fbeee6",
-    borderColor: "#a3612d",
+    borderColor: "#713100",
   },
   iconWrapper: {
     width: 32,
@@ -66,12 +66,12 @@ export const styles = StyleSheet.create({
     marginRight: 12,
   },
   selectedIconWrapper: {
-    backgroundColor: "#a3612d",
+    backgroundColor: "#713100",
   },
   itemText: { fontSize: 16 },
   nextButton: {
     marginTop: 20,
-    backgroundColor: "#5c3d0f",
+    backgroundColor: "#713100",
     padding: 14,
     alignItems: "center",
     borderRadius: 20,
@@ -121,7 +121,6 @@ export const styles = StyleSheet.create({
     height: 94,
     paddingTop: 16,
     marginBottom: 24,
-    // paddingBottom: 24,
   },
 });
   
